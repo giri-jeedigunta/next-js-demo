@@ -1,0 +1,26 @@
+{
+  "../components/dynamic/hello1": [
+    {
+      "id": "./components/dynamic/hello1.jsx",
+      "name": "./components/dynamic/hello1.jsx",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "../components/dynamic/hello2": [
+    {
+      "id": "./components/dynamic/hello2.jsx",
+      "name": "./components/dynamic/hello2.jsx",
+      "file": "static/chunks/2.js",
+      "publicPath": "static/chunks/2.js"
+    }
+  ],
+  "./noop": [
+    {
+      "id": "./node_modules/next/dist/client/noop.js",
+      "name": "./node_modules/next/dist/client/noop.js",
+      "file": "static/chunks/0.js",
+      "publicPath": "static/chunks/0.js"
+    }
+  ]
+}

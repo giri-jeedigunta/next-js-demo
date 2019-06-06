@@ -1,0 +1,1 @@
+{"version":3,"file":"static/webpack/1.8c63f6822446e63b52a2.hot-update.js","sources":["webpack:///./components/dynamic/hello1.jsx"],"sourcesContent":["export default function Hello1() {\n  return <p>Hello 1 !</p>;\n}\n"],"mappings":";;;;;;;;;;;;;;;;AAAA;AACA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AACA;;;;A","sourceRoot":""}

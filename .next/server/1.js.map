@@ -1,0 +1,1 @@
+{"version":3,"file":"1.js","sources":["webpack:///./components/dynamic/hello2.jsx"],"sourcesContent":["export function Hello2() {\n  return <p>Dynamic Component 2 Loaded</p>;\n}\n"],"mappings":";;;;;;;;;;;;;;;;;AAAA;AACA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AACA;;;;A","sourceRoot":""}
